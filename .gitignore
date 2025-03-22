@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Firefox-Extensions/config
+/.vs/Firefox-Extensions/FileContentIndex
+/.vs/Firefox-Extensions/v17
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
